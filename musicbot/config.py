@@ -521,7 +521,7 @@ class ConfigDefaults:
     searchlist = False
     self_deafen = True
     defaultsearchresults = 3
-    footer_text = "Just-Some-Bots/MusicBot ({})".format(BOTVERSION)
+    footer_text = "AxelEncore/Aero-Music-Bot ({})".format(BOTVERSION)
 
     options_file = "config/options.ini"
     blacklist_file = "config/blacklist.txt"
